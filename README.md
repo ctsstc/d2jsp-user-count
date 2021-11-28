@@ -1,5 +1,5 @@
 # d2jsp User Count
-Writes current amount of users on D2 JSP to a CSV
+Writes the current amount of users on D2 JSP to a CSV.
 
 ## Setup
 
@@ -15,7 +15,7 @@ You will need:
 - Node
   - You can download and install the latest from: https://nodejs.org/en/download/
   - Or you can use your favorite OS/3rd Party Package Manager
-  - Or or or,,, maybe you already have it, run `node -v`, you should try to be on version `16` at least.
+  - Or or or,,, maybe you already have it, run `node -v`, you should try to be on version `16` at least
 - Project Dependencies
   - Run `npm install` from the project directory
 
